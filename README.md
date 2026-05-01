@@ -68,7 +68,7 @@ pip install pygame
 
 ---
 
-## ▶ Running the Game
+##  Running the Game
 
 ```bash
 python checkers_ai.py
