@@ -56,7 +56,7 @@ This allows the AI to make strong and efficient decisions even at deeper search 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/checkers-ai.git
+git clone https://github.com/Nour1512/checkers-ai-project.git
 cd checkers-ai
 ```
 
