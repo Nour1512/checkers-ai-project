@@ -140,4 +140,4 @@ If `pygame` is installed, the game can run with a graphical interface:
 
 ## 👤 Author
 
-**Nour Nader Mohamed**
+**Nour Nader**
